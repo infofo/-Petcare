@@ -1,0 +1,152 @@
+body
+{
+ background-color: #CCFFF5;
+ margin:0;
+ font-style: italic
+}
+ 
+
+div
+{
+ border-style:  ;
+ border-color: ;
+}
+
+#Balken
+{
+ background-color: #427778;
+ color: white;
+ font-size: 50px;
+ text-align: center;
+ padding: 0.05%;
+ width: 100%;
+ 
+}
+
+#Logo
+{
+ position: absolute;
+ float: left;
+ align-item: center;
+ top: 20;
+ margin-left: 18px;
+}
+
+#Überschrift:
+{
+ margin-left: 48px; 
+ 
+}
+
+#a
+{
+ height: 120px;
+ width:180px;
+}
+
+#aLogo
+{
+ height: 120px;
+ width:120px;
+}
+
+#mySidenav a {
+  position: absolute; 
+  left: -80px; /* Position them outside of the screen */
+  transition: 0.1s; /* Add transition on hover */
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 20px;
+  width: 100px; /* Set a specific width */
+  text-decoration: none; /* Remove underline */
+  font-size: 20px; /* Increase font size */
+  color: #427778;
+  border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+  margin-top: 20px;
+    border-style: solid;
+ border-color:white ;
+  
+}
+
+#mySidenav a:hover {
+  left: -16; /* On mouse-over, make the elements appear as they should */
+  color: white;
+}
+
+
+/* The about link: 20px from the top with a green background */
+#Home {
+   
+  background-color: #427778;
+}
+
+#Firmen-Philosopie {
+   
+  background-color: #427778; /* Blue */
+}
+
+#Galerie {
+  
+  background-color: #427778; /* Red */
+}
+
+#Kontakt {
+ 
+  
+  background-color: #427778 /* Light Black */
+
+}
+
+
+/* nur Balken und Text selektieren?*/
+
+
+.sidenav
+{
+ position: absolute; 
+ display: inline;
+}
+
+
+
+#Inhalt
+{
+background-color: white;
+margin-right: 40px;
+margin-left: 140px; 
+padding: 3%;
+margin-top: 30px;
+display: flex;
+length: 200px;
+}
+
+#Text
+{
+ margin: 10px;
+}
+
+#Footer
+{
+  background-color: #427778; 
+  color: white;
+  size: 20px;
+  width: 100%;
+  position: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 5px;
+}
+
+.Bild
+{
+ margin: 8px;
+ positon: relative;
+ display: block;
+}
+ 
+
+
+
+
